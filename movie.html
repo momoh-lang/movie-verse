@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="pageTitle">تفاصيل الفيلم | MovieVerse</title>
+  <meta name="description" content="تفاصيل الفيلم على MovieVerse — التقييم، التصنيف، القصة الكاملة، وأفلام مشابهة قد تعجبك." />
+
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+</head>
+<body>
+
+  <!-- ===================== Navbar ===================== -->
+  <header class="navbar" id="navbar">
+    <div class="navbar__left">
+      <a href="index.html" class="logo"><i class="fa-solid fa-clapperboard"></i>Movie<span>Verse</span></a>
+
+      <button class="nav-toggle" id="navToggle" aria-label="فتح القائمة">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html">الرئيسية</a>
+        <a href="index.html#latest">أحدث الأفلام</a>
+        <a href="index.html#trending">الأكثر مشاهدة</a>
+        <a href="index.html#series">المسلسلات</a>
+        <a href="index.html#genres">التصنيفات</a>
+        <a href="favorites.html">المفضلة</a>
+      </nav>
+    </div>
+
+    <div class="navbar__right">
+      <div class="search-box" id="searchBox">
+        <button class="search-toggle" id="searchToggle" aria-label="بحث">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+        <input type="text" id="searchInput" placeholder="ابحث عن فيلم، سنة، أو تصنيف..." autocomplete="off" />
+      </div>
+      <a href="favorites.html" class="btn-icon" title="المفضلة">
+        <i class="fa-solid fa-heart"></i>
+      </a>
+    </div>
+
+    <div class="search-results" id="searchResults">
+      <div class="movies-grid search-results-grid" id="searchResultsGrid"></div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ===================== قسم تفاصيل الفيلم (يُبنى ديناميكيًا) ===================== -->
+    <section class="detail-hero" id="detailHero">
+      <div class="detail-hero__bg detail-hero__bg--placeholder" id="detailHeroBg"></div>
+      <div class="detail-hero__overlay"></div>
+
+      <div class="detail-content" id="detailContent">
+        <!-- يُعبأ عبر script.js بناءً على المعرّف ?id= في رابط الصفحة -->
+      </div>
+    </section>
+
+    <!-- ===================== أفلام مشابهة ===================== -->
+    <section class="movies-section similar-section" id="similarSection">
+      <div class="container">
+        <h2 class="section-title">محتوى مشابه قد يعجبك</h2>
+      </div>
+      <div class="row-wrapper">
+        <button class="row-arrow row-arrow--left" data-target="rowSimilar" aria-label="السابق">
+          <i class="fa-solid fa-chevron-right"></i>
+        </button>
+        <div class="movie-row" id="rowSimilar"></div>
+        <button class="row-arrow row-arrow--right" data-target="rowSimilar" aria-label="التالي">
+          <i class="fa-solid fa-chevron-left"></i>
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===================== Footer ===================== -->
+  <footer class="footer">
+    <div class="footer__top">
+      <div class="footer__brand">
+        <a href="index.html" class="logo"><i class="fa-solid fa-clapperboard"></i>Movie<span>Verse</span></a>
+        <p>منصة تعليمية لاستكشاف الأفلام، بُنيت بـ HTML وCSS وJavaScript بدون أي إطار عمل، كتجربة تصميم واجهات حديثة بأسلوب منصات البث.</p>
+        <div class="footer__social">
+          <a href="#" class="btn-icon" aria-label="فيسبوك"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" class="btn-icon" aria-label="تويتر"><i class="fa-brands fa-x-twitter"></i></a>
+          <a href="#" class="btn-icon" aria-label="انستغرام"><i class="fa-brands fa-instagram"></i></a>
+          <a href="#" class="btn-icon" aria-label="يوتيوب"><i class="fa-brands fa-youtube"></i></a>
+        </div>
+      </div>
+
+      <div class="footer__cols">
+        <div class="footer__col">
+          <h4>تصفح</h4>
+          <a href="index.html">الرئيسية</a>
+          <a href="index.html#latest">أحدث الأفلام</a>
+          <a href="index.html#trending">الأكثر مشاهدة</a>
+          <a href="index.html#series">المسلسلات</a>
+          <a href="favorites.html">المفضلة</a>
+        </div>
+        <div class="footer__col">
+          <h4>عن المشروع</h4>
+          <a href="#">مصدر الكود</a>
+          <a href="#">التقنيات المستخدمة</a>
+          <a href="#">سياسة الخصوصية</a>
+        </div>
+        <div class="footer__col">
+          <h4>تواصل</h4>
+          <a href="#">اتصل بنا</a>
+          <a href="#">الأسئلة الشائعة</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <p>© 2026 MovieVerse — مشروع تعليمي غير تجاري.</p>
+      <p>صُنع بـ ❤ باستخدام HTML · CSS · JavaScript</p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast">
+    <i class="fa-solid fa-circle-check"></i>
+    <span id="toastMessage">تمت الإضافة إلى المفضلة</span>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

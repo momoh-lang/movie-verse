@@ -1,0 +1,1025 @@
+[
+  {
+    "id": 1,
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "rating": 7.9,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": "113 min",
+    "summary": "جندي يجد نفسه عالقًا في حلقة زمنية تتكرر فيها معركة قاتلة ضد غزاة فضائيين، فيضطر لعيش نفس اليوم مرارًا حتى يتقن كيفية النجاة والانتصار.",
+    "image": "images/posters/edge-of-tomorrow.jpg",
+    "link": "https://www.imdb.com/title/tt1631867/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Silent Sea",
+    "year": 2021,
+    "rating": 6.5,
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": "8 حلقات",
+    "summary": "فريق من العلماء ورواد الفضاء ينطلقون في مهمة سرية إلى محطة بحثية مهجورة على القمر لاسترجاع عينة غامضة قد تنقذ الأرض من أزمة المياه.",
+    "image": "images/posters/silent-sea.jpg",
+    "link": "https://www.imdb.com/title/tt13366006/",
+    "featured": false,
+    "trending": true,
+    "type": "series",
+    "language": [
+      "مترجم"
+    ],
+    "seasons_count": 1
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "duration": "148 min",
+    "summary": "لص محترف متخصص في سرقة الأسرار من العقل الباطن أثناء النوم يُكلَّف بمهمة معاكسة: زرع فكرة بدلاً من سرقتها، في عملية معقدة عبر طبقات متعددة من الأحلام.",
+    "image": "images/posters/inception.jpg",
+    "link": "https://www.imdb.com/title/tt1375666/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Coco",
+    "year": 2017,
+    "rating": 8.4,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "duration": "105 min",
+    "summary": "طفل مكسيكي يحلم بأن يصبح موسيقيًا يجد نفسه منتقلاً إلى عالم الأموات بحثًا عن جدّه الأكبر الموسيقي الأسطوري، ليكتشف أسرار عائلته الحقيقية.",
+    "image": "images/posters/coco.jpg",
+    "link": "https://www.imdb.com/title/tt2380307/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Dark Waters",
+    "year": 2019,
+    "rating": 7.6,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "duration": "126 min",
+    "summary": "محامٍ يكتشف تلوثًا صناعيًا خطيرًا يهدد حياة الآلاف، فيخوض معركة قانونية طويلة ومحفوفة بالمخاطر ضد شركة عملاقة لكشف الحقيقة.",
+    "image": "images/posters/dark-waters.jpg",
+    "link": "https://www.imdb.com/title/tt9071322/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.7,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": "169 min",
+    "summary": "مجموعة من المستكشفين يسافرون عبر ثقب دودي في الفضاء بحثًا عن كوكب جديد صالح للحياة، في مهمة قد تكون الأمل الأخير للبشرية.",
+    "image": "images/posters/interstellar.jpg",
+    "link": "https://www.imdb.com/title/tt0816692/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Knives Out",
+    "year": 2019,
+    "rating": 7.9,
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "duration": "130 min",
+    "summary": "محقق خاص يحاول كشف لغز مقتل روائي شهير خلال احتفال عائلي، وسط شبكة معقدة من الأكاذيب والدوافع الخفية لكل فرد من أفراد العائلة.",
+    "image": "images/posters/knives-out.jpg",
+    "link": "https://www.imdb.com/title/tt8946378/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": "125 min",
+    "summary": "فتاة صغيرة تجد نفسها عالقة في عالم روحاني غامض مليء بالكائنات الخارقة، وعليها أن تجد طريقة لإنقاذ والديها والعودة إلى عالمها.",
+    "image": "images/posters/spirited-away.jpg",
+    "link": "https://www.imdb.com/title/tt0245429/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Batman",
+    "year": 2022,
+    "rating": 7.8,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "duration": "176 min",
+    "summary": "في سنته الثانية كمحارب للجريمة، يتعقب باتمان قاتلاً متسلسلاً يستهدف نخبة مدينة جوثام السياسية، ليكتشف روابط مظلمة تمس تاريخ عائلته.",
+    "image": "images/posters/the-batman.jpg",
+    "link": "https://www.imdb.com/title/tt1877830/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Parasite",
+    "year": 2019,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "duration": "132 min",
+    "summary": "عائلة فقيرة تتسلل تدريجيًا إلى حياة عائلة ثرية عبر خداع محكم، فيما تتصاعد الأحداث نحو مواجهة غير متوقعة تكشف الفجوة الطبقية العميقة.",
+    "image": "images/posters/parasite.jpg",
+    "link": "https://www.imdb.com/title/tt6751668/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Dune",
+    "year": 2021,
+    "rating": 8.0,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": "155 min",
+    "summary": "وريث عائلة نبيلة يُكلَّف بحكم كوكب صحراوي خطير هو المصدر الوحيد لأثمن مادة في الكون، فيجد نفسه في قلب صراع قوى هائل على القدر والسلطة.",
+    "image": "images/posters/dune.jpg",
+    "link": "https://www.imdb.com/title/tt1160419/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Soul",
+    "year": 2020,
+    "rating": 8.0,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": "100 min",
+    "summary": "معلم موسيقى يحصل أخيرًا على فرصة العمر في العزف مع أسطورة جاز، لكن حادثًا يرسل روحه إلى عالم آخر يعيد اكتشاف معنى الحياة من خلاله.",
+    "image": "images/posters/soul.jpg",
+    "link": "https://www.imdb.com/title/tt2948372/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "No Time to Die",
+    "year": 2021,
+    "rating": 7.3,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "duration": "163 min",
+    "summary": "جيمس بوند يخرج من تقاعده الهادئ ليواجه عدوًا غامضًا يمتلك تقنية خطيرة، في مهمة أخيرة تختبر كل ما يؤمن به من ولاء وشجاعة.",
+    "image": "images/posters/no-time-to-die.jpg",
+    "link": "https://www.imdb.com/title/tt2382320/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "rating": 7.8,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": "139 min",
+    "summary": "امرأة عادية تكتشف أنها الوحيدة القادرة على إنقاذ الأكوان المتعددة من كارثة وشيكة، عبر ربط وعيها بنسخ مختلفة منها في حيوات موازية.",
+    "image": "images/posters/eeaao.jpg",
+    "link": "https://www.imdb.com/title/tt6710474/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "duration": "99 min",
+    "summary": "مدير فندق أنيق وصبيّ الاستقبال المخلص له يتورطان في سرقة لوحة ثمينة وصراع على ميراث ضخم، في مغامرة كوميدية مليئة بالتفاصيل البصرية الساحرة.",
+    "image": "images/posters/grand-budapest.jpg",
+    "link": "https://www.imdb.com/title/tt2278388/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "rating": 8.0,
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": "164 min",
+    "summary": "شرطي آلي يكتشف سرًا دفينًا قادرًا على إشعال حرب بين البشر والآليين، فينطلق في رحلة للعثور على أحد النسخ القديمة المفقودة منذ سنوات.",
+    "image": "images/posters/blade-runner-2049.jpg",
+    "link": "https://www.imdb.com/title/tt1856101/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "genre": [
+      "Drama"
+    ],
+    "duration": "142 min",
+    "summary": "مصرفي يُتهم ظلمًا بجريمة قتل زوجته ويُزَجّ به في سجن قاسٍ، فيبني على مدى سنوات طويلة صداقة نادرة وأملًا هادئًا يقاوم به قسوة الأسوار.",
+    "image": "images/posters/shawshank-redemption.jpg",
+    "link": "https://www.imdb.com/title/tt0111161/",
+    "featured": true,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9.0,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "duration": "152 min",
+    "summary": "باتمان يواجه خصمًا فوضويًا لا يسعى للمال بل لنشر الفوضى في جوثام، في مواجهة تختبر حدود مبادئه وقدرته على حماية المدينة من الانهيار الأخلاقي.",
+    "image": "images/posters/dark-knight.jpg",
+    "link": "https://www.imdb.com/title/tt0468569/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.9,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": "154 min",
+    "summary": "حكايات متشابكة لقتلة مأجورين وملاكم وزوجة زعيم عصابة، تتقاطع مصائرهم في لوس أنجلوس بأسلوب سردي غير خطي مليء بالحوارات اللاذعة والمفارقات.",
+    "image": "images/posters/pulp-fiction.jpg",
+    "link": "https://www.imdb.com/title/tt0110912/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "La La Land",
+    "year": 2016,
+    "rating": 8.0,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "duration": "128 min",
+    "summary": "عازفة جاز طموحة وممثلة تسعى للنجومية يجمعهما حب مشترك للفن في لوس أنجلوس، فيواجهان خيارات صعبة بين الحلم الشخصي والعلاقة التي تجمعهما.",
+    "image": "images/posters/la-la-land.jpg",
+    "link": "https://www.imdb.com/title/tt3783958/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Whiplash",
+    "year": 2014,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "Music"
+    ],
+    "duration": "106 min",
+    "summary": "طالب طبول طموح ينضم إلى فرقة موسيقية نخبوية بقيادة معلم صارم يدفعه إلى أقصى حدوده، في علاقة متوترة بين الطموح والإنهاك والسعي للكمال.",
+    "image": "images/posters/whiplash.jpg",
+    "link": "https://www.imdb.com/title/tt2582802/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Your Name",
+    "year": 2016,
+    "rating": 8.4,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": "106 min",
+    "summary": "مراهقان من مدينة وقرية يابانيتين مختلفتين يكتشفان أن جسديهما يتبادلان بشكل غامض أثناء النوم، فينسجان رابطًا عميقًا يتجاوز الزمان والمكان.",
+    "image": "images/posters/your-name.jpg",
+    "link": "https://www.imdb.com/title/tt5311514/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": "136 min",
+    "summary": "مبرمج يكتشف أن الواقع الذي يعيشه مجرد محاكاة حاسوبية سيطرت بها الآلات على البشرية، فينضم إلى مقاومة تسعى لتحرير البشر من هذا السجن الرقمي.",
+    "image": "images/posters/the-matrix.jpg",
+    "link": "https://www.imdb.com/title/tt0133093/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "rating": 8.3,
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "duration": "180 min",
+    "summary": "رحلة الفيزيائي روبرت أوبنهايمر وفريقه خلال تطوير القنبلة الذرية في مشروع مانهاتن، وما تبع ذلك من صراع أخلاقي مع العواقب العلمية والسياسية لاختراعه.",
+    "image": "images/posters/oppenheimer.jpg",
+    "link": "https://www.imdb.com/title/tt15398776/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Fight Club",
+    "year": 1999,
+    "rating": 8.8,
+    "genre": [
+      "Drama"
+    ],
+    "duration": "139 min",
+    "summary": "موظف مكتبي يعاني من الأرق يلتقي بصانع صابون غامض وكاريزمي، فيؤسسان معًا ناديًا سريًا للقتال يتحول تدريجيًا إلى حركة فوضوية أكبر بكثير مما توقعاه.",
+    "image": "images/posters/fight-club.jpg",
+    "link": "https://www.imdb.com/title/tt0137523/",
+    "featured": true,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "The Godfather",
+    "year": 1972,
+    "rating": 9.2,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": "175 min",
+    "summary": "رأس عائلة مافيا إيطالية-أمريكية يسلّم تدريجيًا مقاليد إمبراطوريته الإجرامية لابنه الأصغر، في ملحمة عن السلطة والولاء وثمن الحفاظ على العائلة.",
+    "image": "images/posters/the-godfather.jpg",
+    "link": "https://www.imdb.com/title/tt0068646/",
+    "featured": true,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "rating": 9.0,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": "202 min",
+    "summary": "حكايتان متوازيتان: صعود الأب الشاب إلى عالم الجريمة في مطلع القرن، وتوسّع ابنه في السيطرة على الإمبراطورية بعد أن ورثها، بينما تتآكل قيم العائلة من الداخل.",
+    "image": "images/posters/godfather-2.jpg",
+    "link": "https://www.imdb.com/title/tt0071562/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "rating": 8.8,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": "142 min",
+    "summary": "رجل بسيط القلب يجد نفسه حاضرًا دون قصد في أبرز أحداث التاريخ الأمريكي الحديث، بينما يظل حبه الأول هو الثابت الوحيد في رحلة حياته غير العادية.",
+    "image": "images/posters/forrest-gump.jpg",
+    "link": "https://www.imdb.com/title/tt0109830/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 8.9,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": "178 min",
+    "summary": "هوبيت صغير يرث خاتمًا قديمًا يحمل قوة مظلمة هائلة، فينطلق مع رفقة من الأبطال في رحلة خطيرة لتدمير الخاتم قبل أن يقع في يد سيد الظلام.",
+    "image": "images/posters/fellowship-of-the-ring.jpg",
+    "link": "https://www.imdb.com/title/tt0120737/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rating": 9.0,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": "201 min",
+    "summary": "المعركة الأخيرة لتحرير الأرض الوسطى تبدأ، بينما يواصل حامل الخاتم رحلته الشاقة نحو جبل الهلاك في ختام ملحمي لمصير شعوب عديدة.",
+    "image": "images/posters/return-of-the-king.jpg",
+    "link": "https://www.imdb.com/title/tt0167260/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Gladiator",
+    "year": 2000,
+    "rating": 8.5,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": "155 min",
+    "summary": "جنرال روماني يُخان ويُستعبد بعد مقتل عائلته على يد إمبراطور طموح، فيصعد عبر حلبات المصارعة لينتقم ويستعيد كرامته أمام جماهير روما.",
+    "image": "images/posters/gladiator.jpg",
+    "link": "https://www.imdb.com/title/tt0172495/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Titanic",
+    "year": 1997,
+    "rating": 7.9,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": "195 min",
+    "summary": "فنان فقير وفتاة من طبقة راقية يقعان في حب غير متوقع على متن سفينة تُوصف بأنها لا تُغرق، قبل أن تتحول رحلتهما إلى كارثة تاريخية تختبر هذا الحب.",
+    "image": "images/posters/titanic.jpg",
+    "link": "https://www.imdb.com/title/tt0120338/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "The Social Network",
+    "year": 2010,
+    "rating": 7.7,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "duration": "120 min",
+    "summary": "طالب جامعي عبقري ومنعزل اجتماعيًا يطلق موقعًا للتواصل بين طلاب جامعته، لتتحول فكرة بسيطة إلى شبكة عالمية وسط دعاوى قضائية وصداقات محطمة.",
+    "image": "images/posters/social-network.jpg",
+    "link": "https://www.imdb.com/title/tt1285016/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Joker",
+    "year": 2019,
+    "rating": 8.4,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "duration": "122 min",
+    "summary": "كوميديان فاشل ومهمَّش في مدينة جوثام المنهارة يعاني من حالة نفسية تدفعه تدريجيًا نحو انهيار كامل، في رحلة تحوّله إلى أيقونة فوضى يخشاها الجميع.",
+    "image": "images/posters/joker.jpg",
+    "link": "https://www.imdb.com/title/tt7286456/",
+    "featured": true,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Get Out",
+    "year": 2017,
+    "rating": 7.7,
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "duration": "104 min",
+    "summary": "شاب أسود يزور عائلة صديقته البيضاء لأول مرة في منزلهم الريفي، ليكتشف تدريجيًا أن الضيافة الدافئة تخفي سرًا مروّعًا يهدد حياته.",
+    "image": "images/posters/get-out.jpg",
+    "link": "https://www.imdb.com/title/tt5052448/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "rating": 8.1,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": "120 min",
+    "summary": "في صحراء ما بعد الكارثة، تتحالف قائدة متمردة مع ناجٍ وحيد في مطاردة محمومة عبر الرمال هربًا من طاغية يسيطر على آخر موارد الماء والوقود.",
+    "image": "images/posters/mad-max-fury-road.jpg",
+    "link": "https://www.imdb.com/title/tt1392190/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "rating": 8.2,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "duration": "180 min",
+    "summary": "سمسار أسهم شاب يبني إمبراطورية مالية ضخمة عبر الاحتيال والمبالغات، غارقًا في حياة من الإفراط والمخدرات قبل أن يطارده الفيدراليون.",
+    "image": "images/posters/wolf-of-wall-street.jpg",
+    "link": "https://www.imdb.com/title/tt0993846/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Django Unchained",
+    "year": 2012,
+    "rating": 8.4,
+    "genre": [
+      "Drama",
+      "Western"
+    ],
+    "duration": "165 min",
+    "summary": "عبد سابق يتحالف مع صياد جوائز ألماني لتحرير زوجته من قبضة مالك مزرعة قاسٍ، في رحلة عبر الجنوب الأمريكي مليئة بالعنف والانتقام.",
+    "image": "images/posters/django-unchained.jpg",
+    "link": "https://www.imdb.com/title/tt1853728/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "The Prestige",
+    "year": 2006,
+    "rating": 8.5,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "duration": "130 min",
+    "summary": "ساحران متنافسان في لندن العصر الفيكتوري يدخلان في صراع متصاعد من الخداع المهني والانتقام الشخصي، كل منهما يسعى لتقديم الخدعة المثالية مهما كلّف الأمر.",
+    "image": "images/posters/the-prestige.jpg",
+    "link": "https://www.imdb.com/title/tt0482571/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Toy Story",
+    "year": 1995,
+    "rating": 8.3,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": "81 min",
+    "summary": "رعاة تقليدي يشعر بالتهديد عندما تصل لعبة فضائية جديدة تسرق اهتمام الطفل المالك لهما، فيضطران للتعاون للعودة إلى المنزل بعد أن يضيعان سويًا.",
+    "image": "images/posters/toy-story.jpg",
+    "link": "https://www.imdb.com/title/tt0114709/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Up",
+    "year": 2009,
+    "rating": 8.3,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": "96 min",
+    "summary": "رجل مسنّ يربط آلاف البالونات بمنزله ليحقق حلم زوجته الراحلة بالسفر إلى أمريكا الجنوبية، ليجد نفسه برفقة كشاف صغير في مغامرة غير متوقعة.",
+    "image": "images/posters/up.jpg",
+    "link": "https://www.imdb.com/title/tt1049413/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "WALL-E",
+    "year": 2008,
+    "rating": 8.4,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "duration": "98 min",
+    "summary": "روبوت تنظيف صغير وحيد على أرض مهجورة يقع في حب روبوت استكشاف أنيق يصل من الفضاء، فتبدأ رحلة تكشف مصير البشرية التي هجرت كوكبها.",
+    "image": "images/posters/wall-e.jpg",
+    "link": "https://www.imdb.com/title/tt0910970/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Memento",
+    "year": 2000,
+    "rating": 8.4,
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "duration": "113 min",
+    "summary": "رجل فقد القدرة على تكوين ذكريات جديدة يحاول تعقّب قاتل زوجته معتمدًا على الوشوم والملاحظات، في قصة تُروى بترتيب زمني معكوس يربك الحقيقة والذاكرة.",
+    "image": "images/posters/memento.jpg",
+    "link": "https://www.imdb.com/title/tt0209144/",
+    "featured": false,
+    "trending": false,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Se7en",
+    "year": 1995,
+    "rating": 8.6,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": "127 min",
+    "summary": "محققان يطاردان قاتلاً متسلسلاً يستلهم جرائمه البشعة من الخطايا السبع المميتة، في مدينة ممطرة ومظلمة تتصاعد فيها الأحداث نحو نهاية صادمة.",
+    "image": "images/posters/se7en.jpg",
+    "link": "https://www.imdb.com/title/tt0114369/",
+    "featured": false,
+    "trending": true,
+    "type": "movie",
+    "language": [
+      "مترجم"
+    ]
+  },
+  {
+    "title": "Breaking Bad",
+    "year": 2008,
+    "rating": 9.5,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "duration": "5 مواسم",
+    "seasons_count": 5,
+    "summary": "معلم كيمياء مصاب بالسرطان يتحول إلى طبخ وتجارة المخدرات ليؤمّن مستقبل عائلته ماليًا، فينزلق تدريجيًا إلى عالم إجرامي يغيّر هويته بالكامل.",
+    "image": "images/posters/breaking-bad.jpg",
+    "link": "https://www.imdb.com/title/tt0903747/",
+    "featured": true,
+    "trending": true,
+    "type": "series",
+    "language": [
+      "مترجم"
+    ],
+    "id": 45
+  },
+  {
+    "title": "Stranger Things",
+    "year": 2016,
+    "rating": 8.6,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "duration": "4 مواسم",
+    "seasons_count": 4,
+    "summary": "اختفاء غامض لصبي صغير في بلدة أمريكية هادئة يكشف تجارب حكومية سرية وبُعدًا موازيًا مرعبًا، بينما يحاول أصدقاؤه وعائلته فك لغز اختفائه.",
+    "image": "images/posters/stranger-things.jpg",
+    "link": "https://www.imdb.com/title/tt4574334/",
+    "featured": false,
+    "trending": true,
+    "type": "series",
+    "language": [
+      "مترجم"
+    ],
+    "id": 46
+  },
+  {
+    "title": "Money Heist",
+    "year": 2017,
+    "rating": 8.2,
+    "genre": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "duration": "5 مواسم",
+    "seasons_count": 5,
+    "summary": "عقل مدبر غامض يُلقَّب بالأستاذ يجمع مجموعة من اللصوص المهرة لتنفيذ أكبر عملية سطو في التاريخ على دار سك العملة الإسبانية، في خطة محكمة مليئة بالمفاجآت.",
+    "image": "images/posters/money-heist.jpg",
+    "link": "https://www.imdb.com/title/tt6468322/",
+    "featured": true,
+    "trending": true,
+    "type": "series",
+    "language": [
+      "مترجم"
+    ],
+    "id": 47
+  },
+  {
+    "title": "Friends",
+    "year": 1994,
+    "rating": 8.9,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": "10 مواسم",
+    "seasons_count": 10,
+    "summary": "ستة أصدقاء يعيشون في نيويورك يتشاركون تفاصيل حياتهم اليومية بين العمل والحب والصداقة، في كوميديا دافئة تتابع رحلتهم عبر سنوات من النضج والتغيير.",
+    "image": "images/posters/friends.jpg",
+    "link": "https://www.imdb.com/title/tt0108778/",
+    "featured": false,
+    "trending": false,
+    "type": "series",
+    "language": [
+      "مترجم",
+      "مدبلج"
+    ],
+    "id": 48
+  },
+  {
+    "title": "Game of Thrones",
+    "year": 2011,
+    "rating": 9.2,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": "8 مواسم",
+    "seasons_count": 8,
+    "summary": "عائلات نبيلة متناحرة تتصارع على العرش الحديدي في قارة ويستروس، بينما يلوح خطر قديم من الشمال المتجمد يهدد الجميع بغض النظر عمن يفوز باللعبة.",
+    "image": "images/posters/game-of-thrones.jpg",
+    "link": "https://www.imdb.com/title/tt0944947/",
+    "featured": true,
+    "trending": true,
+    "type": "series",
+    "language": [
+      "مترجم"
+    ],
+    "id": 49
+  }
+]
